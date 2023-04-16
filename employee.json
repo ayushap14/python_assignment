@@ -1,0 +1,39 @@
+{
+    "employees": [
+        {
+            "name": "dwij",
+            "dob": "1990-01-01",
+            "height": 175,
+            "city": "Navsari",
+            "state": "Gujarat"
+        },
+        {
+            "name": "meet",
+            "dob": "1995-05-05",
+            "height": 160,
+            "city": "windsor",
+            "state": "Canada"
+        },
+        {
+            "name": "devraj",
+            "dob": "1985-08-08",
+            "height": 180,
+            "city": "surat",
+            "state": "Gujarat"
+        },
+        {
+            "name": "sunny",
+            "dob": "1992-02-02",
+            "height": 165,
+            "city": "milan",
+            "state": "italy"
+        },
+        {
+            "name": "Mike",
+            "dob": "1980-11-11",
+            "height": 170,
+            "city": "Boston",
+            "state": "Massachusetts"
+        }
+    ]
+}
